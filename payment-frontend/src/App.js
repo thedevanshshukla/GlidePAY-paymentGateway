@@ -16,6 +16,7 @@ import RequestByQR from './pages/RequestByQR';
 
 import ProtectedRoute from './components/ProtectedRoute';
 
+
 export default function App() {
   // The token state is still useful for forcing re-renders on login/logout
   const [token, setToken] = useState(localStorage.getItem('token'));
