@@ -1,0 +1,19 @@
+# Python
+payement/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Node
+node_modules/
+build/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
